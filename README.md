@@ -9,6 +9,8 @@
 1. Config this project through builtin cmake of vs2022;
 1. Open the main.cpp of each assignment, then build and run it;
 
+**WARNING:** Ensure that the git ignorecase configure option is set to false.
+
 # Introduction
 
 The original project are the homework structure of GAMES101 lectures. Because
